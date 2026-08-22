@@ -3,7 +3,7 @@ Picasso style. Pepe energy. NFT history.
 # Picasso Pepe
 
 <p align="center">
-  <img src="https://ipfs.io/ipns/k51qzi5uqu5dgcdwl3dd5zcz4xrkrot6cdtq6wh5dtky2at16aidk4loz7lq5l" alt="Picasso Pepe Collection Banner" width="100%">
+  <img src="https://github.com/PicassoPepe/Gallery/blob/main/Picasso%20Pepe%20Banner.png" alt="Picasso Pepe Collection Banner" width="100%">
 </p>
 
 <p align="center">
