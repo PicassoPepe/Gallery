@@ -28,7 +28,7 @@ The collection contains 10,000 unique digital works. Each Picasso Pepe is create
 | --- | --- |
 | Collection | Picasso Pepe |
 | Total Supply | 10,000 |
-| Blockchain | Ethereum |
+| Blockchain | Robinhood |
 | Marketplace | [OpenSea](https://opensea.io/collection/picasso-pepe) |
 | Official X | [@PicassoPepe_RH](https://x.com/PicassoPepe_RH) |
 | Image Format | PNG |
